@@ -126,6 +126,7 @@ Basado en los hallazgos, se propone:
 
 **Nataly Aviña Mejorada**  
 Ingeniera Química y estudiante de Ciencia de Datos en Alura Latam
+
 Contacto: nataly.griselda@gmail.com    
 LinkedIn: https://mx.linkedin.com/in/nataly-avi%C3%B1a-mejorada-a4aa7913a
 
